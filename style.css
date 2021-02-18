@@ -1,0 +1,49 @@
+.header {
+    background-color: rgb(78, 211, 171);
+    color: rgb(29, 27, 27);
+    font-size: large;
+    text-shadow: coral;
+    font-family: 'Times New Roman', Times, serif;
+    text-size-adjust: 44px;
+    text-align: center;
+}
+
+.main {
+    background-color:  rgb(78, 211, 171);
+    background-image: url(images/lonely.jpg);
+    color:  rgb(137, 146, 84);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.How {
+    background-color: rgb(78, 211, 171);
+    color: rgb(218, 160, 16);
+    text-align: center;
+    background-image: url(images/sad.jpg);
+   
+}
+
+.links {
+    background-color: aqua;
+    background-image: url(images/sad);
+    color: rgb(161, 190, 54);
+    text-align: center;
+}
+
+.boxes {
+        text-align: center;
+        width: 60%;
+        margin: 0 auto;
+        background: rgb(179, 182, 14);                         /* White background */
+        padding: 30px;                             /* Internal space */
+        border-radius: 4px;                        /* Small radius */
+        box-shadow: 0 10px 30px rgba(0,0,0,.1);
+        background-image: url(images/pain.jpg);
+        margin-bottom: 10px;
+        transition: 0.2s;
+
+}
+
+.body {
+     background-image: url(images/sad.jpg);
+  }
